@@ -3,7 +3,7 @@
 ## Overview
 This project implements a **classical machine learning pipeline** to classify math questions into their respective subtopics (e.g., algebra, geometry, number theory).
 
-Each question is stored as an **individual JSON file**, and the goal is to demonstrate correct data handling, feature engineering, model selection, and evaluation using traditional ML techniques. An optional bonus task demonstrates the use of a **Large Language Model (LLM)** to generate student-friendly, step-by-step solutions for a small sample of questions.
+Each question is stored as an **individual JSON file**, and the goal is to demonstrate correct data handling, feature engineering, model selection, and evaluation using traditional ML techniques. An bonus task demonstrates the use of a **Large Language Model (LLM)** to generate student-friendly, step-by-step solutions for a small sample of questions.
 
 The project intentionally avoids deep learning models in order to focus on **interpretable, efficient, and well-justified classical methods**, as required by the assignment.
 
